@@ -1,2 +1,2 @@
 # odin-recipes
-this is my first web project that I worked on and pulished in github following the odin curriculum .
+A foundational web project focusing on semantic HTML structure, developed as part of The Odin Project's curriculum.
